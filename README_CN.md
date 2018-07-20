@@ -10,7 +10,7 @@
     ># git branch -a
     //查看远程分支
     
-    ># git clone https://github.com/xiangsx/ProjectsMannage.git
+    ># git clone git@github.com:xiangsx/ProjectsMannage.git
     //clone 项目到本地
     ># git checkout [your own branch]
     //切换到自己的分支
